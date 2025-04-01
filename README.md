@@ -21,7 +21,7 @@ This was a fun project, and I learned how to use predictive analytics to solve r
 
 ## What did you learn?
 
-* How to one-hot encode data for analysis techniques that require data to be in `true` or `false` form. Also how to use qcut to bin continuous data into discrete quartile bins.
+* How to one-hot encode data for analysis techniques that require data to be in `true` or `false` form. Also how to use `qcut` in Pandas to bin continuous data into discrete quartile bins.
 * My first machine learning project.
 * How to use Association Rule Learning with data representative of a real business problem.
 
