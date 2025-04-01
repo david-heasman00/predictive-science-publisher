@@ -15,7 +15,7 @@ This required the use of predictive analytics.
 
 My solution to the case study led to a job offer, but I chose a different organisation that was more aligned to my career journey.
 
-This was a fun project, and I learned how to use predictive analytics to solve real business problems. I specifically learned how to use a Market Basket Analysis, or Association Rule Mining with the apriori algorithm to get the results I needed. 
+This was a fun project, and I learned how to use predictive analytics to solve real business problems. I specifically learned how to use Market Basket Analysis, or Association Rule Mining with the apriori algorithm to get the results I needed. 
 
 (Association Rule Mining is a form of machine learning). 
 
