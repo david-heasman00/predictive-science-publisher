@@ -9,7 +9,7 @@ Whatever the case, it's lovely to meet you.
 
 Being a Data Journalist is part writer, part data visualiser, and part data-jack-of-all-trades. During 2025 I interviewed for a Senior Data Analyst role for a large scientific publisher. 
 
-The final stage was a business case study asking you to identify which customers were at risk of churning. 
+The final stage was a business case study asking to identify which customers were at risk of churning. 
 
 This required the use of predictive analytics.
 
