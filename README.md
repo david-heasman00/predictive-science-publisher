@@ -27,7 +27,7 @@ This was a fun project, and I learned how to use predictive analytics to solve r
 
 ## Where can I view the code?
 
-**[You can see my jupyter notebook solution here.](https://github.com/david-heasman00/predictive-science-publisher/blob/main/Association%20Rules%20Mining%20with%20mlxtend%20portfolio%20write%20up.ipynb)**
+**[You can see my jupyter notebook solution here.](https://nbviewer.org/github/david-heasman00/predictive-science-publisher/blob/main/Association%20Rules%20Mining%20with%20mlxtend%20portfolio%20write%20up.ipynb)**
 
 ## How can I speak to you?
 
